@@ -1,5 +1,3 @@
-<script type='text/javascript'>
-<!-- Begin
 var jumlah_iklan = 2;
 var waktu_sekarang = new Date()
 var detik = waktu_sekarang.getSeconds()
@@ -27,5 +25,4 @@ document.write('<img src=\"' + banner + '\" width=')
 document.write(width + ' height=' + height + ' ');
 document.write('alt=\"' + alt + '\" title=\"' + txt + '\">');
 document.write('</center>');
-// End -->
-</script>
+
